@@ -1,0 +1,26 @@
+{
+    "name": "Netflix Random Movie/Genre Button",
+    "version": "1.0",
+    "description": "Select a Random Show or Genre!",
+    "permissions": ["declarativeContent","activeTab"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "page_action":{
+         "default_popup":"popup.html",
+         "default_icon": {
+            "16": "images/NF_Logo_16.png",
+            "32": "images/NF_Logo_32.png",
+            "48": "images/NF_Logo_48.png",
+            "128": "images/NF_Logo_128.png"
+          }
+    },
+    "icons": {
+        "16": "images/NF_Logo_16.png",
+        "32": "images/NF_Logo_32.png",
+        "48": "images/NF_Logo_48.png",
+        "128": "images/NF_Logo_128.png"
+  },
+    "manifest_version": 2
+  }

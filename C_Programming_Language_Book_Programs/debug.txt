@@ -1,0 +1,765 @@
+
+--------1---------
+J.cx, J.cy 0,1
+cline idx: 1
+cline len: 19
+cline contents: #include <limits.h>
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------2---------
+J.cx, J.cy 18,2
+cline idx: 2
+cline len: 18
+cline contents: #include <ctype.h>
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------3---------
+J.cx, J.cy 18,3
+cline idx: 3
+cline len: 19
+cline contents: #include <string.h>
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------4---------
+J.cx, J.cy 17,4
+cline idx: 4
+cline len: 17
+cline contents: #include <math.h>
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------5---------
+J.cx, J.cy 0,5
+cline idx: 5
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------6---------
+J.cx, J.cy 0,6
+cline idx: 6
+cline len: 20
+cline contents: #define MAXLINE 1000
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------7---------
+J.cx, J.cy 0,7
+cline idx: 7
+cline len: 21
+cline contents: #define MAXLINES 5000
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------8---------
+J.cx, J.cy 0,8
+cline idx: 8
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------9---------
+J.cx, J.cy 0,9
+cline idx: 9
+cline len: 14
+cline contents: struct point {
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------10---------
+J.cx, J.cy 8,10
+cline idx: 10
+cline len: 8
+cline contents: 		int x;
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------11---------
+J.cx, J.cy 1,11
+cline idx: 11
+cline len: 1
+cline contents: 	
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------12---------
+J.cx, J.cy 1,12
+cline idx: 12
+cline len: 8
+cline contents: 		int y;
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------13---------
+J.cx, J.cy 3,13
+cline idx: 13
+cline len: 3
+cline contents: 	};
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------14---------
+J.cx, J.cy 0,14
+cline idx: 14
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------15---------
+J.cx, J.cy 0,15
+cline idx: 15
+cline len: 13
+cline contents: struct rect {
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------16---------
+J.cx, J.cy 1,16
+cline idx: 16
+cline len: 1
+cline contents: 	
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------17---------
+J.cx, J.cy 1,17
+cline idx: 17
+cline len: 18
+cline contents: 	struct point pt1;
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------18---------
+J.cx, J.cy 0,18
+cline idx: 18
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------19---------
+J.cx, J.cy 0,19
+cline idx: 19
+cline len: 18
+cline contents: 	struct point pt2;
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------20---------
+J.cx, J.cy 0,20
+cline idx: 20
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 0
+
+--------21---------
+J.cx, J.cy 0,20
+cline idx: 21
+cline len: 2
+cline contents: };
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 1
+
+--------22---------
+J.cx, J.cy 0,20
+cline idx: 22
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 2
+
+--------23---------
+J.cx, J.cy 0,20
+cline idx: 23
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 3
+
+--------24---------
+J.cx, J.cy 0,20
+cline idx: 24
+cline len: 37
+cline contents: struct point makepoint(int x, int y){
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 4
+
+--------25---------
+J.cx, J.cy 2,20
+cline idx: 25
+cline len: 2
+cline contents: 		
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 5
+
+--------26---------
+J.cx, J.cy 2,20
+cline idx: 26
+cline len: 26
+cline contents: 		struct point t = {x, y};
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 6
+
+--------27---------
+J.cx, J.cy 0,20
+cline idx: 27
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 7
+
+--------28---------
+J.cx, J.cy 0,20
+cline idx: 28
+cline len: 11
+cline contents: 		return t;
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 8
+
+--------29---------
+J.cx, J.cy 2,20
+cline idx: 29
+cline len: 2
+cline contents: 	}
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 9
+
+--------30---------
+J.cx, J.cy 0,20
+cline idx: 30
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 10
+
+--------31---------
+J.cx, J.cy 0,20
+cline idx: 31
+cline len: 56
+cline contents: struct point addpoint(struct point p1, struct point p2){
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 11
+
+--------32---------
+J.cx, J.cy 44,20
+cline idx: 32
+cline len: 44
+cline contents: 	return makepoint(p1.x + p2.x, p1.y + p2.y);
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 12
+
+--------33---------
+J.cx, J.cy 1,20
+cline idx: 33
+cline len: 1
+cline contents: }
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 13
+
+--------34---------
+J.cx, J.cy 0,20
+cline idx: 34
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 14
+
+--------35---------
+J.cx, J.cy 0,20
+cline idx: 35
+cline len: 12
+cline contents: struct key {
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 15
+
+--------36---------
+J.cx, J.cy 0,20
+cline idx: 36
+cline len: 12
+cline contents: 	char *word;
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 16
+
+--------37---------
+J.cx, J.cy 0,20
+cline idx: 37
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 17
+
+--------38---------
+J.cx, J.cy 0,20
+cline idx: 38
+cline len: 11
+cline contents: 	int count;
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 18
+
+--------39---------
+J.cx, J.cy 0,20
+cline idx: 39
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 19
+
+--------40---------
+J.cx, J.cy 0,20
+cline idx: 40
+cline len: 14
+cline contents: } keytab[] = {
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 20
+
+--------41---------
+J.cx, J.cy 1,20
+cline idx: 41
+cline len: 1
+cline contents: 	
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 21
+
+--------42---------
+J.cx, J.cy 1,20
+cline idx: 42
+cline len: 13
+cline contents: 	{"auto", 0},
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 22
+
+--------43---------
+J.cx, J.cy 0,20
+cline idx: 43
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 23
+
+--------44---------
+J.cx, J.cy 0,20
+cline idx: 44
+cline len: 14
+cline contents: 	{"break", 0},
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 24
+
+--------45---------
+J.cx, J.cy 0,20
+cline idx: 45
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 25
+
+--------46---------
+J.cx, J.cy 0,20
+cline idx: 46
+cline len: 12
+cline contents: 	{"for", 0},
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 26
+
+--------47---------
+J.cx, J.cy 0,20
+cline idx: 47
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 27
+
+--------48---------
+J.cx, J.cy 0,20
+cline idx: 48
+cline len: 14
+cline contents: 	{"while", 0},
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 28
+
+--------49---------
+J.cx, J.cy 0,20
+cline idx: 49
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 29
+
+--------50---------
+J.cx, J.cy 0,20
+cline idx: 50
+cline len: 10
+cline contents: 	{"do", 0}
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 30
+
+--------51---------
+J.cx, J.cy 0,20
+cline idx: 51
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 31
+
+--------52---------
+J.cx, J.cy 0,20
+cline idx: 52
+cline len: 3
+cline contents: 	};
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 32
+
+--------53---------
+J.cx, J.cy 0,20
+cline idx: 53
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 33
+
+--------54---------
+J.cx, J.cy 0,20
+cline idx: 54
+cline len: 50
+cline contents: #define NKEYS (sizeof(keytab) / sizeof(keytab[0]))
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 34
+
+--------55---------
+J.cx, J.cy 0,20
+cline idx: 55
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 35
+
+--------56---------
+J.cx, J.cy 0,20
+cline idx: 56
+cline len: 10
+cline contents: int main()
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 36
+
+--------57---------
+J.cx, J.cy 1,20
+cline idx: 57
+cline len: 1
+cline contents: {
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 37
+
+--------58---------
+J.cx, J.cy 1,20
+cline idx: 58
+cline len: 1
+cline contents: 	
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 38
+
+--------59---------
+J.cx, J.cy 1,20
+cline idx: 59
+cline len: 28
+cline contents: 	struct point p = {400,500};
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 39
+
+--------60---------
+J.cx, J.cy 0,20
+cline idx: 60
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 40
+
+--------61---------
+J.cx, J.cy 0,20
+cline idx: 61
+cline len: 47
+cline contents: 	printf("p is the point (%d, %d)\n", p.x, p.y);
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 41
+
+--------62---------
+J.cx, J.cy 0,20
+cline idx: 62
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 42
+
+--------63---------
+J.cx, J.cy 0,20
+cline idx: 63
+cline len: 27
+cline contents: 	double dist, sqrt(double);
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 43
+
+--------64---------
+J.cx, J.cy 0,20
+cline idx: 64
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 44
+
+--------65---------
+J.cx, J.cy 0,20
+cline idx: 65
+cline len: 52
+cline contents: 	dist = sqrt((double)p.x * p.x + (double)p.y * p.y);
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 45
+
+--------66---------
+J.cx, J.cy 1,20
+cline idx: 66
+cline len: 1
+cline contents: 	
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 46
+
+--------67---------
+J.cx, J.cy 1,20
+cline idx: 67
+cline len: 46
+cline contents: 	printf("dist from p to origin: %lf\n", dist);
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 47
+
+--------68---------
+J.cx, J.cy 2,20
+cline idx: 68
+cline len: 2
+cline contents: 		
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 48
+
+--------69---------
+J.cx, J.cy 2,20
+cline idx: 69
+cline len: 39
+cline contents: 	struct point test = makepoint(33, 86);
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 49
+
+--------70---------
+J.cx, J.cy 2,20
+cline idx: 70
+cline len: 50
+cline contents: 	printf("test point: (%d, %d)\n", test.x, test.y);
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 50
+
+--------71---------
+J.cx, J.cy 0,20
+cline idx: 71
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 51
+
+--------72---------
+J.cx, J.cy 0,20
+cline idx: 72
+cline len: 57
+cline contents: 	struct rect screen = {makepoint(0,0), makepoint(30,30)};
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 52
+
+--------73---------
+J.cx, J.cy 2,20
+cline idx: 73
+cline len: 2
+cline contents: 		
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 53
+
+--------74---------
+J.cx, J.cy 2,20
+cline idx: 74
+cline len: 49
+cline contents: 	char *s = "7bytes999", *e = "8bytessbullshitgo";
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 54
+
+--------75---------
+J.cx, J.cy 0,20
+cline idx: 75
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 55
+
+--------76---------
+J.cx, J.cy 0,20
+cline idx: 76
+cline len: 66
+cline contents: 	printf("size of s: %lu, size of e: %lu\n", sizeof(s), sizeof(e));
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 56
+
+--------77---------
+J.cx, J.cy 1,20
+cline idx: 77
+cline len: 1
+cline contents: 	
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 57
+
+--------78---------
+J.cx, J.cy 1,20
+cline idx: 78
+cline len: 43
+cline contents: 	printf("should be 5. size: %lu\n", NKEYS);
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 58
+
+--------79---------
+J.cx, J.cy 10,20
+cline idx: 79
+cline len: 10
+cline contents: 	return 0;
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 59
+
+--------80---------
+J.cx, J.cy 1,20
+cline idx: 80
+cline len: 1
+cline contents: }
+cline pr is null: 0
+cline nx is null: 0
+tsl is idx: 60
+
+--------81---------
+J.cx, J.cy 0,20
+cline idx: 81
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 1
+tsl is idx: 61
+
+--------82---------
+J.cx, J.cy 0,20
+cline idx: 81
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 1
+tsl is idx: 61
+
+--------83---------
+J.cx, J.cy 0,20
+cline idx: 81
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 1
+tsl is idx: 61
+
+--------84---------
+J.cx, J.cy 0,20
+cline idx: 81
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 1
+tsl is idx: 61
+
+--------85---------
+J.cx, J.cy 0,20
+cline idx: 81
+cline len: 0
+cline contents: 
+cline pr is null: 0
+cline nx is null: 1
+tsl is idx: 61
