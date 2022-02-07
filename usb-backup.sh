@@ -1,4 +1,4 @@
-#/bin/bash!
+#!/bin/bash
 #author: jparlett
 
 # This script can be used to backup a target folder to a external drive
